@@ -1,0 +1,10 @@
+{
+  "name": "node-with-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Vitor Barbosa Brandão <hello@joaao.eu> (https://www.joaao.eu/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
